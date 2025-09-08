@@ -7,7 +7,7 @@ int main() {
     int somme = 0;
     int somme_formule;
 
-    // Saisie de l'utilisateur
+
     printf("Entrez un entier positif n : ");
     scanf("%d", &n);
 
